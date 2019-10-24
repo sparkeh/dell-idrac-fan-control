@@ -1,7 +1,7 @@
 ### Dell iDRAC fan control with IPMI
 
 This script came from the need to keep a dell T430 server quiet enough in a home office.
-The room average temps are about 30 to 34 degrees C with the fan at 16%. No major issues observed and
+The room average temps are about 22 to 25 degrees C and CPU avarages at 30 to 34 degrees C with the fan at 16%. No major issues observed and
 the server is quiet enough and not as loud as a desktop PC.
 
 Your mileage may vary.
